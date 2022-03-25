@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/8c0c0d33c6129af67e9c1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Kanna BOT</h1>
+<h1 align="center">Lord Bot</h1>
 
 <a href="https://github.com/Kannachann/kanna-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kannachann/kanna-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Kannachann/kanna-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kannachann/kanna-wabot?label=Watchers&color=green&style=flat-square"></a>
@@ -160,7 +160,7 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) | [![Lord-Ammar](https://github.com/Lord-Ammar.png?size=100)](https://github.com/Lord-Ammar)
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann)
- Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann) | [Lord-Ammar](https://github.com/Lord-Ammar)
+ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 | Penulis ulang Ke-3
