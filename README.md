@@ -162,5 +162,7 @@ conn.logger.level = 'debug'
 
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) | [![Lord-Ammar](https://github.com/Lord-Ammar.png?size=100)](https://github.com/Lord-Ammar)
 ----|----|----
+
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann) | [Lord-Ammar](https://github.com/Lord-Ammar)
+
  Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 | Penulis ulang Ke-3
