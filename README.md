@@ -1,6 +1,6 @@
 <h1 align="center">Node Modules Belum Selesai</h1>
 
-* Unduh File Bot Lengkap Node Modules [`Klik Disini`](https://git-scm.com/downloads)
+* Unduh File Bot Lengkap Node Modules [`Click Here`](https://drive.google.com/file/d/19gg8KZJBwku3LvpfY8al0v-3Ip2Pf9C1/view?usp=drivesdk)
 
 <p align="center">
     <img src="https://i.ibb.co/S64xkVB/20220126-152502.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
