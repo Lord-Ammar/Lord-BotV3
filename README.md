@@ -18,7 +18,7 @@
 
 ## FOR DEPLOY HEROKU USER
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-Ammar/Lord-BotV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-Ammar/REST-FREE)
 
 ### Instal Buildpack
 * heroku/nodejs
